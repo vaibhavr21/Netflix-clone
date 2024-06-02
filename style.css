@@ -23,3 +23,16 @@ body {
     background-position: center;
     background-size: cover;
 }
+.container nav {
+    display: flex;
+    padding: 25px 50px;
+    justify-content: space-between;
+}
+
+.container .logo {
+    width: 140px;
+}
+
+.container .logo img {
+    width: 100%;
+}

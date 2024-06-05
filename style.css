@@ -154,3 +154,27 @@ body {
     font-weight: bold;
 
 }
+
+.content p {
+
+    font-size: 15px;
+
+    letter-spacing: 0.5px;
+
+    margin: 15px 0px;
+
+}
+
+
+
+.mail-box {
+
+    text-align: center;
+
+    justify-content: center;
+
+    display: flex;
+
+    align-items: center;
+
+        }

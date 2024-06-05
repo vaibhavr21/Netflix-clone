@@ -178,3 +178,33 @@ body {
     align-items: center;
 
         }
+
+.mail-box input {
+
+    border-bottom-right-radius: 0;
+
+    border-top-right-radius: 0;
+
+    height: 60px;
+
+    width: 500px;
+
+    min-width: 450px;
+
+    border: none;
+
+    outline: none;
+
+}
+
+.mail-box input::placeholder {
+
+    font-size: 15px;
+
+    padding-left: 10px;
+
+    font-weight: 600;
+
+    font-family: 'Montserrat', sans-serif;
+
+}

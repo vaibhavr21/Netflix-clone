@@ -106,3 +106,51 @@ body {
     border-radius: 3px;
 
 }
+
+.content {
+
+    position: absolute;
+
+    top: 50%;
+
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+    text-align: center;
+
+    color: rgb(255, 255, 255);
+
+    width: 100%;
+
+    height: auto;
+
+}
+
+
+
+.content h1 {
+
+    font-style: normal;
+
+    font-size: 48px;
+
+    font-weight: bold;
+
+    line-height: 45px;
+
+    margin-top: 30px;
+
+}
+
+
+
+.content h3 {
+
+    font-size: 25px;
+
+    font-family: 'Montserrat', sans-serif;
+
+    font-weight: bold;
+
+}

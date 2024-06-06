@@ -261,3 +261,25 @@ body {
     font-size: 25px;
     font-weight: 400;
 }
+
+/* Card 2  */
+.img2 {
+    flex-basis: 45%;
+}
+
+.img2 img {
+    text-align: left;
+    width: 100%;
+}
+
+.card-detail2 {
+    flex: 1;
+    padding: 5px 10px 0px 35px;
+}
+
+.card-detail2 h1 {
+    font-size: 48px;
+    line-height: 58px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}

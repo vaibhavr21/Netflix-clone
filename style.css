@@ -208,3 +208,14 @@ body {
     font-family: 'Montserrat', sans-serif;
 
 }
+.mail-box button {
+    background: #FF0000;
+    color: white;
+    height: 62px;
+    width: 200px;
+    border: none;
+    margin-left: 2px;
+    font-size: 19px;
+    cursor: pointer;
+    border: none;
+}

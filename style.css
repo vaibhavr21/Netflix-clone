@@ -245,3 +245,19 @@ body {
     max-width: 100%;
     margin: 0px 40px 25px 0px;
 }
+.card-detail {
+    flex-basis: 45%;
+    padding-left: 75px;
+}
+
+.card-detail h1 {
+    font-size: 48px;
+    line-height: 25px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.card-detail p {
+    font-size: 25px;
+    font-weight: 400;
+}

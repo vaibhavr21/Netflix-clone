@@ -292,3 +292,10 @@ body {
 .img4 {
     padding: 50px 15px 20px;
 }
+
+/* Design FAQ Section */
+.faq-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}

@@ -299,3 +299,8 @@ body {
     justify-content: center;
     flex-direction: column;
 }
+.hr-line {
+    width: 60%;
+    margin: auto;
+
+}

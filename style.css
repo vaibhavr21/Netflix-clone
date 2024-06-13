@@ -319,3 +319,9 @@ body {
     transition: 0.4s;
     margin: auto;
 }
+.faq-body {
+    margin: auto;
+    width: 50%;
+    padding: auto;
+
+}

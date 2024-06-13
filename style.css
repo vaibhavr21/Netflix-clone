@@ -331,3 +331,11 @@ body {
 .faq-page:hover {
     background-color: #F9F9F9;
 }
+
+/* Style the faq-page panel. Note: hidden by default */
+.faq-body {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+}

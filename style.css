@@ -367,3 +367,11 @@ h1 {
     border-radius: 5px;
     cursor: pointer;
   }
+
+.question:hover {
+    background-color: #333;
+  }
+  
+.question h3 {
+    margin: 0;
+  }

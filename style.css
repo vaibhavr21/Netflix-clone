@@ -347,8 +347,23 @@ body {
 }
 
 /* Now css for frequently asked questions */
-.containers {
+.containers{
     width: 90%;
     margin: 0 auto;
     padding: 20px;
+  }
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+.question {
+    display: flex;
+    justify-content: space-between;
+    background-color: #222;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer;
   }

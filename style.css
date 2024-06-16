@@ -345,3 +345,10 @@ body {
     content: "\2796";
     /* Unicode character for "minus" sign (-) */
 }
+
+/* Now css for frequently asked questions */
+.containers {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+  }

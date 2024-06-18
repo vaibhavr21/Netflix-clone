@@ -405,9 +405,15 @@ h1 {
   }
 
   
-
   .plus:hover {
 
     color: #ddd;
 
   }
+.email-container {
+
+    text-align: center;
+
+    margin-top: 30px;
+
+}

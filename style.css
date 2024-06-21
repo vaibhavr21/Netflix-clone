@@ -479,3 +479,12 @@ h1 {
     color: #737373;
     flex-direction: column;
 }
+.footer-wrapper
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    width: 80%;
+    text-align: left;
+}

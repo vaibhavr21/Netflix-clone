@@ -507,3 +507,8 @@ h1 {
     font-size: 15px;
     margin-left: 17px;
 }
+.footer-col li
+{
+    list-style: none;
+    padding-bottom: 8px;
+}

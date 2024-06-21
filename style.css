@@ -501,3 +501,9 @@ h1 {
     position: relative;
     width: 75%;
 }
+.footer .heading h1
+{
+    position: absolute;
+    font-size: 15px;
+    margin-left: 17px;
+}

@@ -465,3 +465,17 @@ h1 {
     background-color: #c00;
 
  }
+
+ /* Footer  */
+.footer
+{
+    margin-top: 8px;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    color: #737373;
+    flex-direction: column;
+}

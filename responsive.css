@@ -19,6 +19,25 @@
 .cards img {
     width: 100%;
 }
+.mail-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
+.mail-box button {
+    margin-top: 15px;
+}
+
+.container .logo {
+    margin-top: 10px;
+    width: 130px;
+}
+
+.footer p {
+    text-align: center;
+    font-size: 15px;
+}
 
 }

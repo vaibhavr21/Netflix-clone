@@ -1,7 +1,17 @@
 @media screen and (min-width:700px) and (max-width:901px){
+.card-detail h1,
+.card-detail2 h1 {
+    font-size: 35px;
+    line-height: 40px;
+}
+
+.card-detail p,
+.card-detail2 p {
+    font-size: 20px;
+    font-weight: 400;
+}
 
 
 
 
-    
 }

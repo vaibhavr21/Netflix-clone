@@ -125,7 +125,35 @@
     }
 }
 
+@media screen and (min-width:250px) and (max-width:530px) {
+    nav {
+        padding: 5px 10px;
+        justify-content: space-around;
+        align-items: center;
+    }
 
+    .container .logo {
+        width: 75px;
+    }
+
+    .btn {
+        display: flex;
+        justify-content: flex-end;
+        flex: 1;
+        padding-right: 2px;
+        margin-left: 10px;
+    }
+
+    .container nav .sign-in {
+        padding: 2px 7px;
+        border-radius: 5px;
+        font-weight: 500;
+        font-size: 12px;
+    }
+
+    .container nav .lang {
+        margin: 5px 10px 0px 0px;
+    }
 
 
 

@@ -103,6 +103,28 @@
         justify-content: flex-start;
         padding-top: 0.5rem;
     }
+    .mail-box {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .mail-box button {
+        margin-top: 15px;
+    }
+
+    .content h1 {
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 20px;
+    }
+
+    .content h3 {
+        font-size: 20px;
+    }
+}
+
 
 
 

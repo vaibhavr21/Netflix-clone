@@ -229,6 +229,40 @@
         flex-basis: 100%;
         height: auto;
     }
+    .card-detail h1,
+    .card-detail2 h1{
+        text-align: center;
+        font-size: 25px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .card-detail p,
+    .card-detail2 p{
+        text-align: center;
+        font-size: 15px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .card-img , .img2
+    {
+        text-align: center;
+        width: 100%;
+    }
+
+    .footer .heading
+    {
+        width: 100%;
+    }
+    
+    .footer .heading h1
+    {
+        text-align: center;
+        font-size: 12px;
+    }
+}
+
 
 
 

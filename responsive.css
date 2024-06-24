@@ -155,6 +155,81 @@
         margin: 5px 10px 0px 0px;
     }
 
+    .container nav .lang select {
+        text-align: center;
+        padding: 3px 7px;
+    }
+
+    .content h1 {
+        font-size: 25px;
+        font-weight: 600;
+        margin-top: 15px;
+        line-height: normal;
+    }
+
+    .content h3 {
+        font-size: 15px;
+        line-height: normal;
+    }
+
+    .content p {
+        font-size: 12px;
+        line-height: normal;
+    }
+
+    .mail-box {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex-basis: 50%;
+    }
+
+    .mail-box input {
+        height: 40px;
+        width: 75%;
+        min-width: 200px;
+    }
+
+    .mail-box button {
+        margin-top: 10px;
+        width: 150px;
+        height: 40px;
+    }
+
+    .footer p {
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .footer .heading h1 {
+        text-align: center;
+    }
+
+    .footer-wrapper {
+        flex-direction: column;
+    }
+
+    .footer-col {
+        text-align: center;
+    }
+
+    .cards
+    {
+        flex-direction: column;
+    }
+
+    .cardsEven
+    {
+        flex-direction: column-reverse;
+    }
+
+    .card-detail,
+    .card-detail2 {
+        flex-basis: 100%;
+        height: auto;
+    }
+
 
 
 
